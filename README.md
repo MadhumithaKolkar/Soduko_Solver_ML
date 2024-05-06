@@ -25,7 +25,7 @@ The Real-Time Sudoku Solver is an application that can capture a Sudoku puzzle f
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your_username/real-time-sudoku-solver.git
+>>> git clone [https://github.com/your_username/real-time-sudoku-solver.git](https://github.com/MadhumithaKolkar/Soduko_Solver_ML.git)
 
 2. Run the main script:
 python main.py
